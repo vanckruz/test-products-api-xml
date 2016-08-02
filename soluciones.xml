@@ -1,0 +1,541 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Soluciones>
+  <Solucion>
+    <wowDelay>1</wowDelay>
+	<divClass>small-box bg-cloud</divClass>
+	<h3>Servicios Cloud</h3>
+	<iconSrc>dist/img/ico-servicioscloud.png</iconSrc>
+	<Producto>
+		<wowDelayProducto>1</wowDelayProducto>
+		<iClass>fa fa-briefcase</iClass>
+		<infoBoxText>OFFICE</infoBoxText>
+		<infoBoxNumber>365</infoBoxNumber>
+		<progressDescription>Office como servicio</progressDescription>
+		<aprobacion>pdisabled</aprobacion>
+	</Producto>
+	<Producto>
+		<wowDelayProducto>1.1</wowDelayProducto>
+		<iClass>fa fa-lock</iClass>
+		<infoBoxText>NUBE PRIVADA</infoBoxText>
+		<infoBoxNumber>VIRTUAL</infoBoxNumber>
+		<progressDescription>Conectividad Backend</progressDescription>
+		<aprobacion>pdisabled</aprobacion>
+	</Producto>
+	<Producto>
+		<wowDelayProducto>1.2</wowDelayProducto>
+		<iClass>fa fa-cloud</iClass>
+		<infoBoxText>SERVICIOS ADMINISTRADOS</infoBoxText>
+		<infoBoxNumber>DE CLOUD</infoBoxNumber>
+		<progressDescription>Gestión end-to-end</progressDescription>
+		<aprobacion>pdisabled</aprobacion>
+	</Producto>
+	<Producto>
+		<wowDelayProducto>1.3</wowDelayProducto>
+		<iClass>fa fa-cloud</iClass>
+		<infoBoxText>SERVIDORES EN</infoBoxText>
+		<infoBoxNumber>LA NUBE</infoBoxNumber>
+		<progressDescription>Servidores Virtuales</progressDescription>
+		<aprobacion>pdisabled</aprobacion>
+	</Producto>
+	<Producto>
+		<wowDelayProducto>1.4</wowDelayProducto>
+		<iClass>fa fa-envelope</iClass>
+		<infoBoxText>CORREO</infoBoxText>
+		<infoBoxNumber>NEGOCIOS</infoBoxNumber>
+		<progressDescription>Correo personalizado</progressDescription>
+		<aprobacion>pdisabled</aprobacion>
+	</Producto>
+	<Producto>
+		<wowDelayProducto>1.5</wowDelayProducto>
+		<iClass>fa fa-desktop</iClass>
+		<infoBoxText>PRESENCIA</infoBoxText>
+		<infoBoxNumber>WEB</infoBoxNumber>
+		<progressDescription>Fácil Página Web</progressDescription>
+		<aprobacion>pdisabled</aprobacion>
+	</Producto>
+	<Producto>
+		<wowDelayProducto>1.6</wowDelayProducto>
+		<iClass>fa fa-server</iClass>
+		<infoBoxText>RESPALDO PCS</infoBoxText>
+		<infoBoxNumber>Y SERVIDORES</infoBoxNumber>
+		<progressDescription>Información segura</progressDescription>
+		<aprobacion>pdisabled</aprobacion>
+	</Producto>
+  </Solucion>
+  <Solucion>
+    <wowDelay>1.1</wowDelay>
+	<divClass>small-box bg-sgr</divClass>
+	<h3>Servicio Gestión de Red</h3>
+	<iconSrc>dist/img/ico-gestion-red.png</iconSrc>
+	<Producto>
+		<wowDelayProducto>1</wowDelayProducto>
+		<iClass>fa fa-mobile</iClass>
+		<infoBoxText>LAN</infoBoxText>
+		<infoBoxNumber>MANAGEMENT</infoBoxNumber>
+		<progressDescription>LAN Administrado</progressDescription>
+		<aprobacion></aprobacion>
+		<Detalle>
+			<wowDelayDetalle>1</wowDelayDetalle>
+			<spanClass>info-box-icon bg-aqua</spanClass>
+			<imgSrc>dist/img/bg-presentacion.png</imgSrc>
+			<infoBoxNumberDetalle>PRESENTACIÓN COMERCIAL</infoBoxNumberDetalle>
+			<infoBoxTextDetalle>PDF</infoBoxTextDetalle>
+			<viewHref>http://ignitek.com/TELMEX/downloads/servicios-gestion-red/lan-management/presentacion-comercial/lanmanagement-ES.pdf</viewHref>
+			<downloadHref>http://ignitek.com/TELMEX/downloads/servicios-gestion-red/lan-management/presentacion-comercial/lanmanagement-ES.pdf</downloadHref>
+		</Detalle>
+		<Detalle>
+			<wowDelayDetalle>1.1</wowDelayDetalle>
+			<spanClass>info-box-icon bg-yellow</spanClass>
+			<imgSrc>dist/img/bg-video.png</imgSrc>
+			<infoBoxNumberDetalle>VIDEO</infoBoxNumberDetalle>
+			<viewHref>http://ignitek.com/TELMEX/downloads/servicios-gestion-red/lan-management/video/lan-management.mp4</viewHref>
+			<downloadHref>http://ignitek.com/TELMEX/downloads/servicios-gestion-red/lan-management/video/lan-management.mp4</downloadHref>
+		</Detalle>
+		<Detalle>
+			<wowDelayDetalle>1.2</wowDelayDetalle>
+			<spanClass>info-box-icon bg-aqua</spanClass>
+			<imgSrc>dist/img/bg-fichatecnica.png</imgSrc>
+			<infoBoxNumberDetalle>FICHA TÉCNICA</infoBoxNumberDetalle>
+			<viewHref>http://ignitek.com/TELMEX/downloads/servicios-gestion-red/lan-management/ficha-tecnica/ficha-tecnica.pdf</viewHref>
+			<downloadHref>http://ignitek.com/TELMEX/downloads/servicios-gestion-red/lan-management/ficha-tecnica/ficha-tecnica.pdf</downloadHref>
+		</Detalle>
+	</Producto>
+	<Producto>
+		<wowDelayProducto>1.1</wowDelayProducto>
+		<iClass>fa fa-wifi</iClass>
+		<infoBoxText>HOSPITALITY</infoBoxText>
+		<infoBoxNumber>BUSINESS</infoBoxNumber>
+		<progressDescription>Wi-Fi Administrado</progressDescription>
+		<aprobacion></aprobacion>
+		<Detalle>
+			<wowDelayDetalle>1</wowDelayDetalle>
+			<spanClass>info-box-icon bg-aqua</spanClass>
+			<imgSrc>dist/img/bg-presentacion.png</imgSrc>
+			<infoBoxNumberDetalle>PRESENTACIÓN COMERCIAL</infoBoxNumberDetalle>
+			<infoBoxTextDetalle>PDF</infoBoxTextDetalle>
+			<viewHref>http://ignitek.com/TELMEX/downloads/servicios-gestion-red/hospitality-business/presentacion-comercial/hospitalitybusiness-ES.pdf</viewHref>
+			<downloadHref>http://ignitek.com/TELMEX/downloads/servicios-gestion-red/hospitality-business/presentacion-comercial/hospitalitybusiness-ES.pdf</downloadHref>
+		</Detalle>
+		<Detalle>
+			<wowDelayDetalle>1.1</wowDelayDetalle>
+			<spanClass>info-box-icon bg-aqua</spanClass>
+			<imgSrc>dist/img/bg-fichatecnica.png</imgSrc>
+			<infoBoxNumberDetalle>FICHA TÉCNICA</infoBoxNumberDetalle>
+			<viewHref>http://ignitek.com/TELMEX/downloads/servicios-gestion-red/hospitality-business/ficha-tecnica/ficha-tecnica.pdf</viewHref>
+			<downloadHref>http://ignitek.com/TELMEX/downloads/servicios-gestion-red/hospitality-business/ficha-tecnica/ficha-tecnica.pdf</downloadHref>
+		</Detalle>
+	</Producto>
+	<Producto>
+		<wowDelayProducto>1.2</wowDelayProducto>
+		<iClass>fa fa-users</iClass>
+		<infoBoxText>CNOC</infoBoxText>
+		<infoBoxNumber></infoBoxNumber>
+		<progressDescription>Gestión Proactiva</progressDescription>
+		<aprobacion>pdisabled</aprobacion>
+	</Producto>
+	<Producto>
+		<wowDelayProducto>1.3</wowDelayProducto>
+		<iClass>fa fa-mobile</iClass>
+		<infoBoxText>MDM</infoBoxText>
+		<infoBoxNumber></infoBoxNumber>
+		<progressDescription>Gestión de Móviles</progressDescription>
+		<aprobacion>pdisabled</aprobacion>
+	</Producto>
+  </Solucion>
+  <Solucion>
+    <wowDelay>1.2</wowDelay>
+	<divClass>small-box bg-seguridad</divClass>
+	<h3>Seguridad IT</h3>
+	<iconSrc>dist/img/ico-seguridad.png</iconSrc>
+	<Producto>
+		<wowDelayProducto>1</wowDelayProducto>
+		<iClass>fa fa-lock</iClass>
+		<infoBoxText>TRÁFICO</infoBoxText>
+		<infoBoxNumber>SEGURO</infoBoxNumber>
+		<progressDescription>Disponibilidad</progressDescription>
+		<aprobacion>pdisabled</aprobacion>
+	</Producto>
+	<Producto>
+		<wowDelayProducto>1.1</wowDelayProducto>
+		<iClass>fa fa-lock</iClass>
+		<infoBoxText>SEGURIDAD</infoBoxText>
+		<infoBoxNumber>NEGOCIOS</infoBoxNumber>
+		<progressDescription>Protección McAfee</progressDescription>
+		<aprobacion>pdisabled</aprobacion>
+	</Producto>
+	<Producto>
+		<wowDelayProducto>1.2</wowDelayProducto>
+		<iClass>fa fa-lock</iClass>
+		<infoBoxText>SEGURIDAD</infoBoxText>
+		<infoBoxNumber>INTERNET</infoBoxNumber>
+		<progressDescription>Navegación Segura</progressDescription>
+		<aprobacion>pdisabled</aprobacion>
+	</Producto>
+	<Producto>
+		<wowDelayProducto>1.3</wowDelayProducto>
+		<iClass>fa fa-cloud</iClass>
+		<infoBoxText>SOC</infoBoxText>
+		<infoBoxNumber></infoBoxNumber>
+		<progressDescription>Servicio Integral</progressDescription>
+		<aprobacion></aprobacion>
+		<Detalle>
+			<wowDelayDetalle>1</wowDelayDetalle>
+			<spanClass>info-box-icon bg-aqua</spanClass>
+			<imgSrc>dist/img/bg-presentacion.png</imgSrc>
+			<infoBoxNumberDetalle>PRESENTACIÓN COMERCIAL</infoBoxNumberDetalle>
+			<infoBoxTextDetalle>PDF</infoBoxTextDetalle>
+			<viewHref>http://ignitek.com/TELMEX/downloads/seguridad-it/soc/presentacion-comercial/soc-ES.pdf</viewHref>
+			<downloadHref>http://ignitek.com/TELMEX/downloads/seguridad-it/soc/presentacion-comercial/soc-ES.pdf</downloadHref>
+		</Detalle>
+	</Producto>
+	<Producto>
+		<wowDelayProducto>1.4</wowDelayProducto>
+		<iClass>fa fa-lock</iClass>
+		<infoBoxText>SPA</infoBoxText>
+		<infoBoxNumber></infoBoxNumber>
+		<progressDescription>Seguridad Perimetral</progressDescription>
+		<aprobacion></aprobacion>
+		<Detalle>
+			<wowDelayDetalle>1</wowDelayDetalle>
+			<spanClass>info-box-icon bg-aqua</spanClass>
+			<imgSrc>dist/img/bg-presentacion.png</imgSrc>
+			<infoBoxNumberDetalle>PRESENTACIÓN COMERCIAL</infoBoxNumberDetalle>
+			<infoBoxTextDetalle>PDF</infoBoxTextDetalle>
+			<viewHref>http://ignitek.com/TELMEX/downloads/seguridad-it/spa/presentacion-comercial/spa-ES.pdf</viewHref>
+			<downloadHref>http://ignitek.com/TELMEX/downloads/seguridad-it/spa/presentacion-comercial/spa-ES.pdf</downloadHref>
+		</Detalle>
+	</Producto>
+  </Solucion>
+  <Solucion>
+    <wowDelay>1.3</wowDelay>
+	<divClass>small-box bg-sa</divClass>
+	<h3>Soluciones Administradas</h3>
+	<iconSrc>dist/img/ico-soluciones-administrada.png</iconSrc>
+	<Producto>
+		<wowDelayProducto>1</wowDelayProducto>
+		<iClass>fa fa-desktop</iClass>
+		<infoBoxText>ESCRITORIOS</infoBoxText>
+		<infoBoxNumber>VIRTUALES</infoBoxNumber>
+		<progressDescription>Escritorio Virtual</progressDescription>
+		<aprobacion>pdisabled</aprobacion>
+	</Producto>
+	<Producto>
+		<wowDelayProducto>1.1</wowDelayProducto>
+		<iClass>fa fa-cloud</iClass>
+		<infoBoxText>SOLUCIONES DE</infoBoxText>
+		<infoBoxNumber>VIRTUALIZACIÓN</infoBoxNumber>
+		<progressDescription>Virtualización Total</progressDescription>
+		<aprobacion>pdisabled</aprobacion>
+	</Producto>
+	<Producto>
+		<wowDelayProducto>1.2</wowDelayProducto>
+		<iClass>fa fa-desktop</iClass>
+		<infoBoxText>DIGITAL</infoBoxText>
+		<infoBoxNumber>SIGNAGE</infoBoxNumber>
+		<progressDescription>Cartelería Digital</progressDescription>
+		<aprobacion>pdisabled</aprobacion>
+	</Producto>
+  </Solucion>
+  <Solucion>
+    <wowDelay>1.4</wowDelay>
+	<divClass>small-box bg-colaboracion</divClass>
+	<h3>Colaboración</h3>
+	<iconSrc>dist/img/ico-colaboracion.png</iconSrc>
+	<Producto>
+		<wowDelayProducto>1</wowDelayProducto>
+		<iClass>fa fa-phone</iClass>
+		<infoBoxText>CUAD</infoBoxText>
+		<infoBoxNumber></infoBoxNumber>
+		<progressDescription>Comunicación Unificada</progressDescription>
+		<aprobacion>pdisabled</aprobacion>
+	</Producto>
+	<Producto>
+		<wowDelayProducto>1.1</wowDelayProducto>
+		<iClass>fa fa-phone</iClass>
+		<infoBoxText>COMBO</infoBoxText>
+		<infoBoxNumber>CUAD</infoBoxNumber>
+		<progressDescription>Comunicación Total</progressDescription>
+		<aprobacion>pdisabled</aprobacion>
+	</Producto>
+	<Producto>
+		<wowDelayProducto>1.2</wowDelayProducto>
+		<iClass>fa fa-phone</iClass>
+		<infoBoxText>CLOUD</infoBoxText>
+		<infoBoxNumber>PBX</infoBoxNumber>
+		<progressDescription>Colaboración básica</progressDescription>
+		<aprobacion>pdisabled</aprobacion>
+	</Producto>
+	<Producto>
+		<wowDelayProducto>1.3</wowDelayProducto>
+		<iClass>fa fa-phone</iClass>
+		<infoBoxText>ADMINISTRACIÓN Y</infoBoxText>
+		<infoBoxNumber>CONTROL TELEFÓNICO</infoBoxNumber>
+		<progressDescription>Telefonía Visible</progressDescription>
+		<aprobacion>pdisabled</aprobacion>
+	</Producto>
+	<Producto>
+		<wowDelayProducto>1.4</wowDelayProducto>
+		<iClass>fa fa-video-camera</iClass>
+		<infoBoxText>CONFERENCIA</infoBoxText>
+		<infoBoxNumber>WEB</infoBoxNumber>
+		<progressDescription>Cisco WebEx</progressDescription>
+		<aprobacion>pdisabled</aprobacion>
+	</Producto>
+	<Producto>
+		<wowDelayProducto>1.5</wowDelayProducto>
+		<iClass>fa fa-headphones</iClass>
+		<infoBoxText>CONTACT</infoBoxText>
+		<infoBoxNumber>CENTER</infoBoxNumber>
+		<progressDescription>Call Center</progressDescription>
+		<aprobacion>pdisabled</aprobacion>
+	</Producto>
+  </Solucion>
+  <Solucion>
+    <wowDelay>1.5</wowDelay>
+	<divClass>small-box bg-conectividad</divClass>
+	<h3>Conectividad</h3>
+	<iconSrc>dist/img/ico-conectividad.png</iconSrc>
+	<Producto>
+		<wowDelayProducto>1</wowDelayProducto>
+		<iClass>fa fa-wifi</iClass>
+		<infoBoxText>INTERNET DIRECTO</infoBoxText>
+		<infoBoxNumber>EMPRESARIAL</infoBoxNumber>
+		<progressDescription>Internet dedicado</progressDescription>
+		<aprobacion>pdisabled</aprobacion>
+	</Producto>
+	<Producto>
+		<wowDelayProducto>1.1</wowDelayProducto>
+		<iClass>fa fa-wifi</iClass>
+		<infoBoxText>INFINITUM</infoBoxText>
+		<infoBoxNumber>EMPRESARIAL</infoBoxNumber>
+		<progressDescription>ADSL asimétrico</progressDescription>
+		<aprobacion>pdisabled</aprobacion>
+	</Producto>
+	<Producto>
+		<wowDelayProducto>1.2</wowDelayProducto>
+		<iClass>fa fa-phone</iClass>
+		<infoBoxText>NÚMEROS</infoBoxText>
+		<infoBoxNumber>800</infoBoxNumber>
+		<progressDescription>Contacto único</progressDescription>
+		<aprobacion></aprobacion>
+		<Detalle>
+			<wowDelayDetalle>1</wowDelayDetalle>
+			<spanClass>info-box-icon bg-aqua</spanClass>
+			<imgSrc>dist/img/bg-presentacion.png</imgSrc>
+			<infoBoxNumberDetalle>PRESENTACIÓN COMERCIAL</infoBoxNumberDetalle>
+			<infoBoxTextDetalle>PDF</infoBoxTextDetalle>
+			<viewHref>http://ignitek.com/TELMEX/downloads/conectividad/numeros-800/presentacion-comercial/numeros800-ES.pdf</viewHref>
+			<downloadHref>http://ignitek.com/TELMEX/downloads/conectividad/numeros-800/presentacion-comercial/numeros800-ES.pdf</downloadHref>
+		</Detalle>
+	</Producto>
+	<Producto>
+		<wowDelayProducto>1.3</wowDelayProducto>
+		<iClass>fa fa-phone</iClass>
+		<infoBoxText>ENLACES</infoBoxText>
+		<infoBoxNumber>DEDICADOS</infoBoxNumber>
+		<progressDescription>WAN dedicado</progressDescription>
+		<aprobacion>pdisabled</aprobacion>
+	</Producto>
+	<Producto>
+		<wowDelayProducto>1.4</wowDelayProducto>
+		<iClass>fa fa-phone</iClass>
+		<infoBoxText>CONEXIÓN PRIVADA</infoBoxText>
+		<infoBoxNumber>EMPRESARIAL</infoBoxNumber>
+		<progressDescription>WAN sobre Fibra</progressDescription>
+		<aprobacion>pdisabled</aprobacion>
+	</Producto>
+	<Producto>
+		<wowDelayProducto>1.5</wowDelayProducto>
+		<iClass>fa fa-phone</iClass>
+		<infoBoxText>TRONCAL</infoBoxText>
+		<infoBoxNumber>TELMEX</infoBoxNumber>
+		<progressDescription>Conexión a PSTN</progressDescription>
+		<aprobacion>pdisabled</aprobacion>
+	</Producto>
+	<Producto>
+		<wowDelayProducto>1.6</wowDelayProducto>
+		<iClass>fa fa-wifi</iClass>
+		<infoBoxText>IDATA</infoBoxText>
+		<infoBoxNumber></infoBoxNumber>
+		<progressDescription>Internet por Fibra</progressDescription>
+		<aprobacion></aprobacion>
+		<Detalle>
+			<wowDelayDetalle>1</wowDelayDetalle>
+			<spanClass>info-box-icon bg-aqua</spanClass>
+			<imgSrc>dist/img/bg-presentacion.png</imgSrc>
+			<infoBoxNumberDetalle>PRESENTACIÓN COMERCIAL</infoBoxNumberDetalle>
+			<infoBoxTextDetalle>PDF</infoBoxTextDetalle>
+			<viewHref>http://ignitek.com/TELMEX/downloads/conectividad/idata/presentacion-comercial/idata-ES.pdf</viewHref>
+			<downloadHref>http://ignitek.com/TELMEX/downloads/conectividad/idata/presentacion-comercial/idata-ES.pdf</downloadHref>
+		</Detalle>
+		<Detalle>
+			<wowDelayDetalle>1.1</wowDelayDetalle>
+			<spanClass>info-box-icon bg-aqua</spanClass>
+			<imgSrc>dist/img/bg-fichatecnica.png</imgSrc>
+			<infoBoxNumberDetalle>FICHA TÉCNICA</infoBoxNumberDetalle>
+			<viewHref>http://ignitek.com/TELMEX/downloads/conectividad/idata/ficha-tecnica/ficha-tecnica.pdf</viewHref>
+			<downloadHref>http://ignitek.com/TELMEX/downloads/conectividad/idata/ficha-tecnica/ficha-tecnica.pdf</downloadHref>
+		</Detalle>
+	</Producto>
+	<Producto>
+		<wowDelayProducto>1.7</wowDelayProducto>
+		<iClass>fa fa-phone</iClass>
+		<infoBoxText>RED PRIVADA</infoBoxText>
+		<infoBoxNumber>VIRTUAL</infoBoxNumber>
+		<progressDescription>VPN empresarial</progressDescription>
+		<aprobacion>pdisabled</aprobacion>
+	</Producto>
+  </Solucion>
+  <Solucion>
+    <wowDelay>1.6</wowDelay>
+	<divClass>small-box bg-pt</divClass>
+	<h3>Prácticas Tecnológicas</h3>
+	<iconSrc>dist/img/ico-practicas-tecnologicas.png</iconSrc>
+	<Producto>
+		<wowDelayProducto>1</wowDelayProducto>
+		<iClass>fa fa-hdd-o</iClass>
+		<infoBoxText>ALM</infoBoxText>
+		<infoBoxNumber></infoBoxNumber>
+		<progressDescription>Fábrica de Software</progressDescription>
+		<aprobacion></aprobacion>
+		<Detalle>
+			<wowDelayDetalle>1</wowDelayDetalle>
+			<spanClass>info-box-icon bg-aqua</spanClass>
+			<imgSrc>dist/img/bg-presentacion.png</imgSrc>
+			<infoBoxNumberDetalle>PRESENTACIÓN COMERCIAL</infoBoxNumberDetalle>
+			<infoBoxTextDetalle>PDF</infoBoxTextDetalle>
+			<viewHref>http://ignitek.com/TELMEX/downloads/practicas-tecnologicas/fabrica-software/presentacion-comercial/fabricadesoftware-ES.pdf</viewHref>
+			<downloadHref>http://ignitek.com/TELMEX/downloads/practicas-tecnologicas/fabrica-software/presentacion-comercial/fabricadesoftware-ES.pdf</downloadHref>
+		</Detalle>
+	</Producto>
+	<Producto>
+		<wowDelayProducto>1.1</wowDelayProducto>
+		<iClass>fa fa-clipboard</iClass>
+		<infoBoxText>FACTURA</infoBoxText>
+		<infoBoxNumber>ELECTRÓNICA</infoBoxNumber>
+		<progressDescription>Factura Electrónica</progressDescription>
+		<aprobacion></aprobacion>
+		<Detalle>
+			<wowDelayDetalle>1</wowDelayDetalle>
+			<spanClass>info-box-icon bg-aqua</spanClass>
+			<imgSrc>dist/img/bg-presentacion.png</imgSrc>
+			<infoBoxNumberDetalle>PRESENTACIÓN COMERCIAL</infoBoxNumberDetalle>
+			<infoBoxTextDetalle>PDF</infoBoxTextDetalle>
+			<viewHref>http://ignitek.com/TELMEX/downloads/practicas-tecnologicas/factura-electronica/presentacion-comercial/facturaelectronica-ES.pdf</viewHref>
+			<downloadHref>http://ignitek.com/TELMEX/downloads/practicas-tecnologicas/factura-electronica/presentacion-comercial/facturaelectronica-ES.pdf</downloadHref>
+		</Detalle>
+	</Producto>
+	<Producto>
+		<wowDelayProducto>1.2</wowDelayProducto>
+		<iClass>fa fa-cogs</iClass>
+		<infoBoxText>GESTIONE</infoBoxText>
+		<infoBoxNumber></infoBoxNumber>
+		<progressDescription>SAP Business One</progressDescription>
+		<aprobacion></aprobacion>
+		<Detalle>
+			<wowDelayDetalle>1</wowDelayDetalle>
+			<spanClass>info-box-icon bg-aqua</spanClass>
+			<imgSrc>dist/img/bg-presentacion.png</imgSrc>
+			<infoBoxNumberDetalle>PRESENTACIÓN COMERCIAL</infoBoxNumberDetalle>
+			<infoBoxTextDetalle>PDF</infoBoxTextDetalle>
+			<viewHref>http://ignitek.com/TELMEX/downloads/practicas-tecnologicas/gestione/presentacion-comercial/gestione-ES.pdf</viewHref>
+			<downloadHref>http://ignitek.com/TELMEX/downloads/practicas-tecnologicas/gestione/presentacion-comercial/gestione-ES.pdf</downloadHref>
+		</Detalle>
+		<Detalle>
+			<wowDelayDetalle>1.1</wowDelayDetalle>
+			<spanClass>info-box-icon bg-aqua</spanClass>
+			<imgSrc>dist/img/bg-fichatecnica.png</imgSrc>
+			<infoBoxNumberDetalle>FICHA TÉCNICA</infoBoxNumberDetalle>
+			<viewHref>http://ignitek.com/TELMEX/downloads/practicas-tecnologicas/gestione/ficha-tecnica/ficha-tecnica.pdf</viewHref>
+			<downloadHref>http://ignitek.com/TELMEX/downloads/practicas-tecnologicas/gestione/ficha-tecnica/ficha-tecnica.pdf</downloadHref>
+		</Detalle>
+	</Producto>
+	<Producto>
+		<wowDelayProducto>1.3</wowDelayProducto>
+		<iClass>fa fa-cogs</iClass>
+		<infoBoxText>ERP</infoBoxText>
+		<infoBoxNumber>INDUSTRIA</infoBoxNumber>
+		<progressDescription>SAP Industria</progressDescription>
+		<aprobacion>pdisabled</aprobacion>
+	</Producto>
+	<Producto>
+		<wowDelayProducto>1.4</wowDelayProducto>
+		<iClass>fa fa-clipboard</iClass>
+		<infoBoxText>ASPEL</infoBoxText>
+		<infoBoxNumber></infoBoxNumber>
+		<progressDescription>ERP Aspel</progressDescription>
+		<aprobacion></aprobacion>
+		<Detalle>
+			<wowDelayDetalle>1</wowDelayDetalle>
+			<spanClass>info-box-icon bg-aqua</spanClass>
+			<imgSrc>dist/img/bg-presentacion.png</imgSrc>
+			<infoBoxNumberDetalle>PRESENTACIÓN COMERCIAL</infoBoxNumberDetalle>
+			<infoBoxTextDetalle>PDF</infoBoxTextDetalle>
+			<viewHref>http://ignitek.com/TELMEX/downloads/practicas-tecnologicas/aspel/presentacion-comercial/aspel-ES.pdf</viewHref>
+			<downloadHref>http://ignitek.com/TELMEX/downloads/practicas-tecnologicas/aspel/presentacion-comercial/aspel-ES.pdf</downloadHref>
+		</Detalle>
+	</Producto>
+	<Producto>
+		<wowDelayProducto>1.5</wowDelayProducto>
+		<iClass>fa fa-cogs</iClass>
+		<infoBoxText>AMS</infoBoxText>
+		<infoBoxNumber>SAP</infoBoxNumber>
+		<progressDescription>SAP Administrado</progressDescription>
+		<aprobacion>pdisabled</aprobacion>
+	</Producto>
+  </Solucion>
+  <Solucion>
+    <wowDelay>1.7</wowDelay>
+	<divClass>small-box bg-sv</divClass>
+	<h3>Soluciones Verticales</h3>
+	<iconSrc>dist/img/ico-soluciones-verticales.png</iconSrc>
+	<Producto>
+		<wowDelayProducto>1</wowDelayProducto>
+		<iClass>fa fa-clipboard</iClass>
+		<infoBoxText>ARMONIZACIÓN</infoBoxText>
+		<infoBoxNumber>CONTABLE</infoBoxNumber>
+		<progressDescription>Normas Contables</progressDescription>
+		<aprobacion>pdisabled</aprobacion>
+	</Producto>
+	<Producto>
+		<wowDelayProducto>1.1</wowDelayProducto>
+		<iClass>fa fa-medkit</iClass>
+		<infoBoxText>SISA</infoBoxText>
+		<infoBoxNumber></infoBoxNumber>
+		<progressDescription>Sistema para Salud</progressDescription>
+		<aprobacion>pdisabled</aprobacion>
+	</Producto>
+	<Producto>
+		<wowDelayProducto>1.2</wowDelayProducto>
+		<iClass>fa fa-clipboard</iClass>
+		<infoBoxText>PEM-PEC</infoBoxText>
+		<infoBoxNumber></infoBoxNumber>
+		<progressDescription>Registro Propiedad</progressDescription>
+		<aprobacion>pdisabled</aprobacion>
+	</Producto>
+	<Producto>
+		<wowDelayProducto>1.3</wowDelayProducto>
+		<iClass>fa fa-medkit</iClass>
+		<infoBoxText>EXPEDIENTE CLÍNICO</infoBoxText>
+		<infoBoxNumber>ELECTRÓNICO</infoBoxNumber>
+		<progressDescription>Expediente digital</progressDescription>
+		<aprobacion>pdisabled</aprobacion>
+	</Producto>
+	<Producto>
+		<wowDelayProducto>1.4</wowDelayProducto>
+		<iClass>fa fa-medkit</iClass>
+		<infoBoxText>SISA</infoBoxText>
+		<infoBoxNumber>IMAGENOLOGÍA</infoBoxNumber>
+		<progressDescription>Imágenes Clínicas</progressDescription>
+		<aprobacion>pdisabled</aprobacion>
+	</Producto>
+	<Producto>
+		<wowDelayProducto>1.5</wowDelayProducto>
+		<iClass>fa fa-video-camera</iClass>
+		<infoBoxText>VIDEO VIGILANCIA</infoBoxText>
+		<infoBoxNumber>ADMINISTRADA</infoBoxNumber>
+		<progressDescription>Cámaras y Seguridad</progressDescription>
+		<aprobacion>pdisabled</aprobacion>
+	</Producto>
+  </Solucion>
+</Soluciones>

@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en" ng-app="apixml">
+<head>
+	<meta charset="UTF-8">
+	<title>Api xml</title>
+      <link href="http://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  	  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  	  <link rel="stylesheet" type="text/css" href="css/main.css">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    </head>
+
+<body ng-controller="soluciones">
+
+<nav class="navbar navbar-default">
+  <div class="container">
+    <div class="navbar-header">
+    	<a class="navbar-brand" href="#">ApiXML</a>
+		<form class="navbar-form navbar-left" role="search">
+		  <div class="form-group">
+		    <input type="text" class="form-control" placeholder="Buscar" ng-model="buscador">
+		  </div>
+		</form>	
+    </div>
+  </div>
+</nav>
+
+<div class="container-fluid">
+	<div class="row">
+		<div class="col-xs-12">
+		<table class="table-responsive">
+			<thead>
+				<tr>
+					<th>Servicio</th>
+					<th>Descripción</th>
+					<th>Items</th>
+					<th>Etiquetas</th>
+				</tr>
+			</thead>
+			<tr ng-repeat="solucion in data |filter:buscador">
+				<td class="tdsol"><div class="solucion"><p>{{ solucion.h3 }}<p></div></td>
+				<td class="tdsol"><div class="solucion"><p>{{ solucion.Producto[0].progressDescription }}</p></td>
+				<td class="tdtag">
+					<input type="text" class="form-control buscadorlist" ng-model="buscadorlist" placeholder="filtrar tags">
+					<ul class="tags">
+					  <li class="tag" ng-repeat="producto in solucion.Producto  | filter:buscadorlist">{{ producto.infoBoxText }}</li>
+					</ul>
+				</td>
+				<td class="tdsol"><div class="solucion">
+				<p>{{ solucion.Producto[0].infoBoxNumber  }}</p>
+				 </td>
+			</tr>
+		</table>
+		</div>
+	</div>
+</div>
+    <script type="text/javascript" src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+  	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  	<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.8/angular.min.js"></script>
+  	<script src="js/xml2json.js"></script>
+  	<script src="js/main.js"></script>
+</body>
+</html>
