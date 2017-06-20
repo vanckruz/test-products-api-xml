@@ -1,2 +1,2 @@
-# Test de consumo de un api en xml
+# En el siguiente test se consume un api en xml se listan y filtran los items en angular 1.
 
